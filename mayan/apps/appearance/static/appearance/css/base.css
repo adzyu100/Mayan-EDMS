@@ -631,3 +631,11 @@ a i {
 .dropdown-menu > li > a {
     color: #585e5e;
 }
+
+span.pull-left {
+    color: #0c4a3e !important;
+}
+
+button.btn-default {
+    color: #000000 !important;
+}
